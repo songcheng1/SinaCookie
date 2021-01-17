@@ -29,6 +29,7 @@ cmd运行importer.py，通过18459748505----astvar3647的格式输入账号和�
 ④cookie检验间隔时间在config中设置CYCLE=120秒
 
 ======================程序运行机制==================
+
 ①先配置账号密码文件01_account_file.txt
 ②导入文件中的账号密码到reids库accounts:weibo
 ③运行run.py文件
