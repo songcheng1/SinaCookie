@@ -1,7 +1,8 @@
 
 ①录入account
+
 方式一
-前提;02_importer.py里为scan1
+前提：02_importer.py里为scan1
 cmd运行importer.py，通过18459748505----astvar3647的格式输入账号和密码，然后该方法通过调用db.RedisClient类将账号存存储到reids（未设置db库，默认为0，type=hash,key="accounts:weibo"）
 请输入账号密码组, 输入exit退出读入
 18459748505----astvar3647
